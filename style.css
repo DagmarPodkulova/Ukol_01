@@ -65,8 +65,8 @@ a {
 } 
 
 .fotogalerie img {
-    width: 200px;
-    height: 250px;
+    width: 20%;
+    
     border: 2px solid #756158;
     border-radius: 10px;
 }

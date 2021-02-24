@@ -66,7 +66,7 @@ a {
 
 .fotogalerie img {
     width: 20%;
-    
+    height: 250px;
     border: 2px solid #756158;
     border-radius: 10px;
 }
@@ -109,6 +109,12 @@ section {
     
 .hlavicka {
             padding: 150px 30px;
+            background-image: url("Obrázky/hroch2.jpeg" );
+            background-repeat: no-repeat;
+            background-position:center ;
+            background-size: cover;
+            
+
     }
 
 .Menu{
